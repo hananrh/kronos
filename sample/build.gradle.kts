@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-	namespace = "com.aura.myapplication"
+	namespace = "com.hrofeh.myapplication"
 	compileSdk = 34
 
 	defaultConfig {
-		applicationId = "com.aura.myapplication"
+		applicationId = "com.hrofeh.myapplication"
 		minSdk = 26
 		targetSdk = 34
 		versionCode = 1
